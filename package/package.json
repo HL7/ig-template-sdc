@@ -1,0 +1,13 @@
+{
+  "name" : "hl7.sdc.template",
+  "type" : "fhir.template",
+  "license" : "CC0-1.0",
+  "description" : "HL7 SDC Template - for use with the HL7 SDC FHIR IG",
+  "author" : "http://hl7.org/fhir",
+  "canonical" : "http://fhir.org/templates/hl7.davinci.template",
+  "base" : "hl7.fhir.template",
+  "dependencies" : {
+    "hl7.fhir.template" : "current"
+  },
+  "version" : "0.1.0"
+}
